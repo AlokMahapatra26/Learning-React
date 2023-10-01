@@ -1,0 +1,5 @@
+//Notes
+
+React create its own virtual dom and compare it which actual DOM whenever we make chnages React detect the difference and only chnage that part , instead creating whole DOM again like traditional method
+
+reconciliation -> the also react uses one tree with another to determine which pparts needs to be changed.
